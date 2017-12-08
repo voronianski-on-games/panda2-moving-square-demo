@@ -1,6 +1,6 @@
 # Panda2 Moving Square Demo
 
-> Move pink square with arrow keys ◀️🔼🔽▶️ and explore the darkness of rectangle with 320x240 dimensions.
+> Move pink square with arrow keys ⬅️⬆️⬇️➡️ and explore the darkness of rectangle with 320x240 dimensions.
 
 ## Usage
 
