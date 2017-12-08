@@ -2,6 +2,8 @@
 
 > Move pink square with arrow keys ⬅️⬆️⬇️➡️ and explore the darkness of rectangle with 320x240 dimensions.
 
+![](https://github.com/voronianski-on-games/panda2-moving-square-demo/raw/master/moving-square-demo.gif)
+
 ## Usage
 
 Clone this repository and open `index.html` in the browser.
